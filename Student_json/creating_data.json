@@ -1,0 +1,47 @@
+{
+    "Student" : [
+        {
+            "Name" :" Numan",
+            "middlename" : "Jakria",
+            "Age" : 24,
+            "Cgpa" : 3.10,
+        
+            "Language" : ["Bangla","English","Hindi"],
+            "Friends" : [
+                {
+                    "Name" : "Rakib",
+                    "Age" : 24
+        
+                },
+        
+                {
+                    "Name" : "Khalek",
+                    "Age" : 24
+                }
+            ]
+        },
+        
+        
+        {
+        
+            "Name" :" Numan",
+            "middlename" : "Jakria",
+            "Age" : 24,
+            "Cgpa" : 3.10,
+        
+            "Language" : ["Bangla","English","Hindi"],
+            "Friends" : [
+                {
+                    "Name" : "Rakib",
+                    "Age" : 24
+        
+                },
+        
+                {
+                    "Name" : "Khalek",
+                    "Age" : 24
+                }
+            ]
+         }
+    ]
+}
